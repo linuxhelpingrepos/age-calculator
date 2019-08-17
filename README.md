@@ -22,3 +22,7 @@ getAge.inMinutes("07/09/2000");		// 10321920 minutes
 getAge.inSeconds("07/09/2000");		// 619315200 seconds
 
 ```
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
