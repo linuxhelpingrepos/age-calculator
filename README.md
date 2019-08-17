@@ -13,10 +13,12 @@ $ npm install findage --save
 ## Usage
 
 ```js
-const getAge = require("findage");;
+const getAge = require("findage");
 
-getAge("1993/10/04");		// 25
-getAge("1993-10-04");		// 25
-getAge("1993-10-4");		// 25
+getAge.fullAge("07/09/2000");		// 19 years 7 months 16 days
+getAge.inMonths("07/09/2000");		// 235 months 16 days
+getAge.inHours("07/09/2000");		// 172032 hours
+getAge.inMinutes("07/09/2000");		// 10321920 minutes
+getAge.inSeconds("07/09/2000");		// 619315200 seconds
+
 ```
-
