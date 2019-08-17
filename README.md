@@ -1,11 +1,9 @@
 # findage
 > Get age in different formats.
 
-Get age from DOB.
+<!-- [![npm (scoped)](https://img.shields.io/badge/findage-1.0.0-blue.svg)](https://www.npmjs.com/package/findage) -->
 
-[![npm (scoped)](https://img.shields.io/badge/findage-1.0.0-blue.svg)](https://www.npmjs.com/package/findage)
-
-- [Install](#install)
+- [Installation](#install)
 - [Usage](#usage)
 - [License](#license)
 
@@ -17,8 +15,11 @@ $ npm install findage --save
 
 ## Usage
 
+
 ```js
 const getAge = require("findage");
+
+# Input Format (MM/DD/YYYY)
 
 getAge.fullAge("01/01/2000");		// 19 years 7 months 16 days
 getAge.inMonths("01/01/2000");		// 235 months 16 days
