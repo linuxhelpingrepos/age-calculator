@@ -1,0 +1,37 @@
+{
+	"name": "@asif92/age-calculator",
+	"version": "0.0.1",
+	"description": "Find age in different formats",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "asifsharif190@gmail.com",
+	"license": "MIT",
+	"keywords": [
+		"age",
+		"age-finder",
+		"ageFinder",
+		"find-age",
+		"calculate-age",
+		"age-calculator",
+		"findage",
+		"age-in-years",
+		"age-years",
+		"age-in-month",
+		"age-month",
+		"age-in-days",
+		"age-days",
+		"age-in-minutes",
+		"age-minutes",
+		"age-in-seconds",
+		"age-seconds",
+		"nodejs",
+		"npm",
+		"package",
+		"asifsharif",
+		"asifsharifshahid",
+		"asifsharif190",
+		"asif92"
+	]
+}
