@@ -19,7 +19,7 @@ $ npm install findage --save
 ```js
 const getAge = require("findage");
 
-# Input Format (MM/DD/YYYY)
+// Input Format (MM/DD/YYYY)
 
 getAge.fullAge("01/01/2000");		// 19 years 7 months 16 days
 getAge.inMonths("01/01/2000");		// 235 months 16 days
