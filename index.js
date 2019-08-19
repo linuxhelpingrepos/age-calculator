@@ -9,7 +9,6 @@ module.exports = {
 		{
 			return "Input Date isn't correct.";
 		}
-
 		var todayDate = helper.getTodayDate();
 		
 		/* check if input date is in future or today */
