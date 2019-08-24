@@ -1,4 +1,4 @@
-# findage
+# age-calculator
 > Get age in different formats.
 
 <!-- [![npm (scoped)](https://img.shields.io/badge/findage-1.0.0-blue.svg)](https://www.npmjs.com/package/findage) -->
@@ -31,4 +31,4 @@ getAge.inSeconds("01/01/2000");		// 619315200 seconds
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+The MIT License. Please see [License File](LICENSE) for more information.
