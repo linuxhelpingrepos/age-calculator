@@ -1,6 +1,7 @@
 {
 	"name": "@asif92/age-calculator",
 	"version": "0.0.1",
+	"author": "Asif Sharif Shahid <asifsharif190@gmail.com>",
 	"description": "Find age in different formats",
 	"main": "index.js",
 	"scripts": {
