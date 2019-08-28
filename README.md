@@ -1,7 +1,15 @@
 # age-calculator
 > Get age in different formats.
 
-[![npm (scoped)](https://img.shields.io/badge/age-calculator-0.0.1-blue.svg)](https://www.npmjs.com/package/@asif92/age-calculator)
+![npm](https://img.shields.io/npm/v/@asif92/age-calculator?color=green&label=age-calculator&style=plastic)
+[![GitHub license](https://img.shields.io/github/license/asif92/age-calculator?style=plastic)](https://github.com/asif92/age-calculator/blob/master/LICENSE)
+
+[![GitHub issues](https://img.shields.io/github/issues/asif92/age-calculator?style=social)](https://github.com/asif92/age-calculator/issues)
+
+[![GitHub forks](https://img.shields.io/github/forks/asif92/age-calculator?style=social)](https://github.com/asif92/age-calculator/network)
+[![GitHub stars](https://img.shields.io/github/stars/asif92/age-calculator?style=social)](https://github.com/asif92/age-calculator/stargazers)
+
+<!-- [![npm (scoped)](https://img.shields.io/badge/age-calculator-0.0.1-blue.svg)](https://www.npmjs.com/package/@asif92/age-calculator) -->
 
 - [Installation](#install)
 - [Usage](#usage)
