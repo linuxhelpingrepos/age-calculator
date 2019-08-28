@@ -1,7 +1,7 @@
 # age-calculator
 > Get age in different formats.
 
-<!-- [![npm (scoped)](https://img.shields.io/badge/findage-1.0.0-blue.svg)](https://www.npmjs.com/package/findage) -->
+[![npm (scoped)](https://img.shields.io/badge/age-calculator-0.0.1-blue.svg)](https://www.npmjs.com/package/@asif92/age-calculator)
 
 - [Installation](#install)
 - [Usage](#usage)
