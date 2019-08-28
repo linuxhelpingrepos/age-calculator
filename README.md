@@ -1,7 +1,10 @@
-<p align="center">
+<h1 align="center"> age-calculator </h1>
 
-# age-calculator
-> Get age in different formats.
+<h6 align="center">
+  Get age in different formats.
+</h6>
+
+<p align="center">
 
 ![npm](https://img.shields.io/npm/v/@asif92/age-calculator?color=green&label=%40asif92%2Fage-calculator&style=plastic)(https://www.npmjs.com/package/@asif92/age-calculator)
 [![GitHub license](https://img.shields.io/github/license/asif92/age-calculator?style=plastic)](https://github.com/asif92/age-calculator/blob/master/LICENSE)
