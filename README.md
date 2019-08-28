@@ -6,7 +6,7 @@
 
 <p align="center">
 
-![npm](https://img.shields.io/npm/v/@asif92/age-calculator?color=green&label=%40asif92%2Fage-calculator&style=plastic)(https://www.npmjs.com/package/@asif92/age-calculator)
+[![npm](https://img.shields.io/npm/v/@asif92/age-calculator?color=green&label=%40asif92%2Fage-calculator&style=plastic)](https://www.npmjs.com/package/@asif92/age-calculator)
 [![GitHub license](https://img.shields.io/github/license/asif92/age-calculator?style=plastic)](https://github.com/asif92/age-calculator/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/asif92/age-calculator?style=social)](https://github.com/asif92/age-calculator/issues)
 [![GitHub forks](https://img.shields.io/github/forks/asif92/age-calculator?style=social)](https://github.com/asif92/age-calculator/network)
