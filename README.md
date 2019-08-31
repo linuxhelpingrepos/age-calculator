@@ -36,4 +36,4 @@ getAge.inSeconds("01/01/2000");		// 619315200 seconds
 
 ## License
 
-The MIT License. Please see [License File](LICENSE) for more information.
+License MIT. See [License File](LICENSE) for more information.
