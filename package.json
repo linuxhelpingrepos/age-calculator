@@ -2,13 +2,12 @@
 	"private": false,
 	"name": "@asif92/age-calculator",
 	"version": "0.0.2",
-	"author": "Asif Sharif Shahid <asifsharif190@gmail.com>",
+	"author": "asifsharif190@gmail.com",
 	"description": "Find age in different formats",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "ava"
 	},
-	"author": "asifsharif190@gmail.com",
 	"license": "MIT",
 	"keywords": [
 		"age",
@@ -35,5 +34,8 @@
 		"asifsharifshahid",
 		"asifsharif190",
 		"asif92"
-	]
+	],
+	"devDependencies": {
+		"ava": "^2.3.0"
+	}
 }
