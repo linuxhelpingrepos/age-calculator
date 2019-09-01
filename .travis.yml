@@ -4,6 +4,5 @@ node_js:
   - "lts/*"
   - "9"
   - "8"
-  - "7"
 sudo: false
 script: "npm test"
